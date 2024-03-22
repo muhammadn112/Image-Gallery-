@@ -1,1 +1,1 @@
-# cutom-media-player
+# Image Gallery with Light Box Effect
